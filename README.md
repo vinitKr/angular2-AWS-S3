@@ -16,7 +16,7 @@ To run this example use:
 npm start
 ```
 
-## consider
+## Note
 
 ```
 - app.component.ts : line 2 & 3
